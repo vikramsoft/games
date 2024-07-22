@@ -1,0 +1,22 @@
+i want to create one game, using javascript
+button :create three silver color button first button name "start" second button name "pause" third button name "quit", buttons should align horizontaly position of buttons bottum center above 200px from bottom
+logic of button : when click on "start" button fresh restart game from bigning and when click on "quit" button quit the game and show " game is closed" popup on screen center ,when click on pause button convert pause button into "resume" button and pause the game till resume button not click when resume button clicks start the game from the same state where we were pasue the game   
+background : white
+result : after five second stop animation and show head or tail rendomly on coin
+animation coin : create one original gold color coin and one face of coin is head and second face is tails head and tails color is green create toss animation of coin when "start" or "resume" button is click
+
+
+
+i want to create one game, using JavaScript, background : white
+create three silver color button first button name "start" second button name "pause" third button name "quit", buttons should align horizontally position of buttons bottom center above 200px from bottom
+when click on "start" button fresh restart game from beginning and when click on "quit" button quit the game and show " game is closed" popup on screen center ,when click on pause button convert pause button into "resume" button and pause the game till resume button not click when resume button clicks start the game from the same state where we were pause the game   
+create one original gold color coin and one face of coin is "head" and second face is "tails" ,head and tails text color is green and text background color original gold color create toss animation of coin and give this animation name "animcoin" and position of coin center 500px above from bottom of screen
+when "start" or "resume" button click start "animcoin" animation till 5 second and after five second stop animation and show head or tail randomly on coin 
+
+
+
+i want to develop the game , uing javascript , background color white 
+button :create three silver color button first button name "start" second button name "pause" third button name "quit", buttons should align horizontaly position of buttons bottum center above 200px from bottom
+animation : create animation of gold coin in which number change between one to 10 any number can rendomly comes and animation should run upto five seconds and position of animation above 400px from bottom center 
+onclick : when click on "start" button fresh restart game from beginning and when click on "quit" button quit the game and show " game is closed" popup on screen center ,when click on pause button convert pause button into "resume" button and pause the game till resume button not click when resume button clicks start the game from the same state where we were pause the game   
+
